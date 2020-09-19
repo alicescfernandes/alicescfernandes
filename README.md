@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 aaa
-![asd](https://www.google-analytics.com/collect?v=1&t=pageview&tid=UA-100869248-2&cid=555&dp=%2Fgithub3)
+![asd](https://www.google-analytics.com/collect?v=1&t=pageview&tid=UA-100869248-2&cid=555&dp=%2Fprofile)
 bbb
 
 I'm Alice and i'm currently taking a course in Engeneering @ ISEL, and working full-time as Frontend Developer in Observador.  
