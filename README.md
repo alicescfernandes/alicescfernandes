@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Alice and i'm currently taking a course in Engeneering @ ISEL, and working full-time as Frontend Developer in Observador. Messing around with React, Typescript, Svelte, Vue and ES6+ compliant JS
+
+Some useful refs:
+- [My Linkedin](https://www.linkedin.com/in/alicescfernandes/)
+
+
+
 <!--
 **alicescfernandes/alicescfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
