@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Alice and i'm currently taking a course in Engeneering @ ISEL, and working full-time as Frontend Developer in Observador. Messing around with React, Typescript, Svelte, Vue and ES6+ compliant JS
+I'm Alice and i'm currently taking a course in Engeneering @ ISEL, and working full-time as Frontend Developer in Observador. 
+Working with React, Typescript, Svelte, Vue, ES6+ compliant JS, Python and Java.
 
 Some useful refs:
 - [My Linkedin](https://www.linkedin.com/in/alicescfernandes/)
