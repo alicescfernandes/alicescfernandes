@@ -1,11 +1,19 @@
-### Hi there 👋
+### Hi there 👋 I'm Alice
 ![](https://www.google-analytics.com/collect?v=1&t=event&tid=UA-100869248-2&cid=555&ec=github&ea=pageview&el=profile&ev=1)
 
-I'm Alice and i'm currently taking a course in Engineering @ ISEL, and working full-time as Frontend Developer at [Observador](http://observador.pt/).  
+And i'm currently taking a course in Engineering @ ISEL, and working full-time as Frontend Developer at [Observador](http://observador.pt/).  
 Working with React (and React Native & RN for Web), Typescript, Svelte, Vue, ES6+ compliant JS, Python and Java.
 
-Some useful refs:
-- [My Linkedin](https://www.linkedin.com/in/alicescfernandes/)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicescfernandes&show_icons=true&locale=en&layout=compact" alt="alicescfernandes" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alicescfernandes&show_icons=true&locale=en" alt="alicescfernandes" /></p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alicescfernandes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alicescfernandes" height="30" width="40" /></a>
+</p>
 
 <!--
 **alicescfernandes/alicescfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
