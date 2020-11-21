@@ -3,12 +3,12 @@
 And i'm currently taking a course in Engineering @ ISEL, and working full-time as Frontend Developer at [Observador](http://observador.pt/).  
 Working with React (and React Native & RN for Web), Typescript, Svelte, Vue, ES6+ compliant JS, Python and Java.
 
-
+#### The stats things
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicescfernandes&show_icons=true&locale=en&layout=compact" alt="alicescfernandes" /></div>
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alicescfernandes&show_icons=true&locale=en" alt="alicescfernandes" /></div>
 
 
-<h3 align="left">Connect with me:</h3>
+#### Social
 <p align="left">
 <a href="https://linkedin.com/in/alicescfernandes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alicescfernandes" height="30" width="40" /></a>
 </p>
