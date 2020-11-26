@@ -4,9 +4,8 @@ And i'm currently taking a course in Engineering @ ISEL, and working full-time a
 Working with React (and React Native & RN for Web), Typescript, Svelte, Vue, ES6+ compliant JS, Python and Java.
 
 #### The stats things
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicescfernandes&show_icons=true&locale=en&layout=compact" alt="alicescfernandes" /></div>
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alicescfernandes&show_icons=true&locale=en" alt="alicescfernandes" /></div>
-
+![](https://github-readme-stats.vercel.app/api?username=alicescfernandes&show_icons=true&locale=en)  
+![](https://github-readme-stats.vercel.app/api/top-langs?username=alicescfernandes&show_icons=true&locale=en&layout=compact)
 
 #### Social
 <p align="left">
