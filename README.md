@@ -3,6 +3,12 @@
 And i'm currently taking a course in Engineering @ ISEL, and working full-time as Frontend Developer at [Observador](http://observador.pt/). You can always find me doing random stuff with computers.  
 Working with React (and React Native & RN for Web), Typescript, Svelte, Vue, ES6+ compliant JS, Python and Java.
 
+### My dev gear
+- Ubuntu & MacOS
+- Logitech MX Master 3
+- Logitech M375 keyboard
+- LG 24MK600M-B Screen
+
 #### The stats things
 ![](https://github-readme-stats.vercel.app/api?username=alicescfernandes&show_icons=true&locale=en)  
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=alicescfernandes&show_icons=true&locale=en&layout=compact)
