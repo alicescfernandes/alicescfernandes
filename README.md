@@ -4,7 +4,7 @@ And i'm currently taking a course in Engineering @ ISEL, and working full-time a
 Working with React (and React Native & RN for Web), Typescript, Svelte, Vue, ES6+ compliant JS, Python and Java.
 
 ### My dev gear
-- Ubuntu & MacOS
+- Ubuntu running on a 16GiB RAM, 1TB of space & i7-10510U CPU or MacOs
 - Logitech MX Master 3
 - Logitech M375 keyboard
 - LG 24MK600M-B Screen
