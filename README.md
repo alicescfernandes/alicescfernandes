@@ -6,9 +6,9 @@ Working with React (and React Native & RN for Web), Typescript, Svelte, Vue, ES6
 You should probably know that i love 🍄, to the point that i eat them as lunch snacks
 
 ### My dev gear  
-💻 Ubuntu  running on a 16GiB RAM, 1TB of space & i7-10510U CPU or MacOs  
+💻 Ubuntu  running on 16GiB RAM, 1TB of space & i7-10510U CPU or MacOs  
 🖱️ Logitech MX Master 3   
-⌨️ Logitech M375 ⌨️  
+⌨️ Logitech M375
 🖥️ LG 24MK600M-B   
 
 #### The stats things
