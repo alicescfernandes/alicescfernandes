@@ -1,13 +1,14 @@
 ### Hi there 👋 I'm Alice
 ![](https://www.google-analytics.com/collect?v=1&t=event&tid=UA-100869248-2&cid=555&ec=github&ea=pageview&el=profile&ev=1) 
 And i'm currently taking a course in Engineering @ ISEL, and working full-time as Frontend Developer at [Observador](http://observador.pt/). You can always find me doing random stuff with computers.  
-Working with React (and React Native & RN for Web), Typescript, Svelte, Vue, ES6+ compliant JS, Python and Java.
+Working with React (and React Native & RN for Web), Typescript, Svelte, Vue, ES6+ compliant JS, Python and Java. Learning about GraphQL (this is awesome) and trying do to something with it
 
 ### My dev gear
-- Ubuntu running on a 16GiB RAM, 1TB of space & i7-10510U CPU or MacOs
-- Logitech MX Master 3
-- Logitech M375 keyboard
-- LG 24MK600M-B Screen
+- 
+- 💻 Ubuntu  running on a 16GiB RAM, 1TB of space & i7-10510U CPU or MacOs
+- 🖱️ Logitech MX Master 3 
+- ⌨️ Logitech M375 ⌨️
+- 🖥️ LG 24MK600M-B 
 
 #### The stats things
 ![](https://github-readme-stats.vercel.app/api?username=alicescfernandes&show_icons=true&locale=en)  
