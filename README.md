@@ -6,7 +6,7 @@ Currently learning about GraphQL (this is awesome) and orgmode and trying do to 
 
 You should probably know that i love 🍄, to the point that i eat them as lunch snacks and i mostly rely on coffee everyday. One of my favourite hobbies is listening to 📡 (yep, i'm trying to catch UFO's) but so far only got to see airplanes and hearing radio. One day i will be able to have a full-disk image of the planet Earth!
 
-You can find me at <a href="https://linkedin.com/in/alicescfernandes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alicescfernandes" height="20" width="20" /></a> while i'm still trying to breakout on the blogging scene but i really don't know how to write, or what to write about (maybe about UFO's when i find them!)
+You can find me at <a href="https://linkedin.com/in/alicescfernandes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alicescfernandes" height="20" width="20" /></a> while i'm still trying to breakout on the blogging scene. I really don't know how to write, or what to write about (maybe about UFO's when i find them!)
 
 
 ### My dev gear  
