@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Alice
 ![](https://www.google-analytics.com/collect?v=1&t=event&tid=UA-100869248-2&cid=555&ec=github&ea=pageview&el=profile&ev=1) 
 And i'm currently taking a course in Engineering @ ISEL, and working full-time as Frontend Developer at [Observador](http://observador.pt/).  
-Currently working with React (and React Native & RN for Web), Typescript, Svelte, Vue, ES6+ compliant JS, Python and Java, and experimenting writing apps for Fitbit
+Currently working with React (and React Native & RN for Web), Typescript, Svelte, Vue, ES6+ compliant JS, Python and Java, and experimenting writing apps for Fitbit  
 Currently learning about GraphQL (this is awesome) and orgmode and trying do to something with it.
 
 You should probably know that i love 🍄, to the point that i eat them as lunch snacks and i mostly rely on coffee everyday. One of my favourite hobbies is listening to 📡 (yep, i'm trying to catch UFO's) but so far only got to see airplanes and hearing radio. One day i will be able to have a full-disk image of the planet Earth!
