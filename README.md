@@ -3,7 +3,7 @@
 And i'm currently taking a course in Engineering @ ISEL, and working full-time as Frontend Developer at [Sky](#).  
 As of now, i'm working with React (and React Native & RN for Web), Typescript, Svelte, Vue, ES6+ compliant JS, Python and Java, and experimenting writing apps for Fitbit and learning about GraphQL (this is awesome) and orgmode and trying do to something with it.
 
-You should probably know that i love 🍄, to the point that i eat them as lunch snacks and i mostly rely on coffee everyday. One of my favourite hobbies is listening to 📡 (yep, i'm trying to catch UFO's) but so far only got to see airplanes and hearing radio. One day i will be able to have a full-disk image of the planet Earth!
+You should probably know that i love 🍄, to the point that i eat them as lunch snacks and i mostly rely on coffee everyday. One of my favourite hobbies is listening to 📡 (yep, i'm trying to catch UFO's) but so far only got to see airplanes and hearing radio. [One day i will be able to have a full-disk image of the planet Earth!](https://www.google.com/search?q=full+disk+image+earth&safe=active&tbm=isch)
 
 You can find me at <a href="https://linkedin.com/in/alicescfernandes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alicescfernandes" height="20" width="20" /></a> and <a href="https://dev.to/alicescfernandes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="alicescfernandes" height="20" width="20" /></a> while i'm still trying to breakout on the blogging scene. I really don't know how to write, or what to write about (maybe about UFO's when i find them!)
 
