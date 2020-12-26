@@ -6,4 +6,4 @@ And i&#39;m currently taking a course in Engineering @ ISEL, and working full-ti
 <h3 id="my-dev-gear">My dev gear</h3>
 <p>💻 Ubuntu  running on 16GiB RAM, 1TB of space &amp; i7-10510U CPU or MacOs<br>🖱️ Logitech MX Master 3<br>⌨️ Logitech M375<br>🖥️ LG 24MK600M-B   </p>
 <h4 id="the-stats-things">The stats things</h4>
-<p><img src="https://github-readme-stats.vercel.app/api?username=alicescfernandes&amp;show_icons=true&amp;locale=en" alt=""><br><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicescfernandes&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt=""></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=alicescfernandes&amp;show_icons=true&amp;locale=en" alt=""><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicescfernandes&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt=""></p>
