@@ -6,7 +6,7 @@ In the future i would like to transition to an audio software engineer role, but
 <p>You should probably know that i love 🍄, to the point that i eat them as lunch snacks and i mostly rely on coffee everyday. One of my favourite hobbies is listening to 📡 (yep, i&#39;m trying to catch UFO&#39;s) but so far only got to see airplanes and hearing radio. <a href="https://www.google.com/search?q=full+disk+image+earth&amp;safe=active&amp;tbm=isch">One day i will be able to have a full-disk image of the planet Earth!</a></p>
 <p>You can only find me at <a href="https://linkedin.com/in/alicescfernandes" target="blank">LinkedIn</a></p>
 <h3 id="my-dev-gear">My dev gear</h3>
-<p>💻 Ubuntu  running on 16GiB RAM, 1TB of space &amp; i7-10510U CPU or MacOs<br>🖱️ Logitech MX Master 3<br>⌨️ Logitech M375<br>🖥️ LG 24MK600M-B   </p>
+<p>💻 Ubuntu  running on 16GiB RAM, 1TB of space &amp; i7-10510U CPU or MacOs<br>🖱️ Logitech MX Master 3<br>⌨️ Logitech M375 & Ducky One 2 SF with Cherry MX Silent Red<br>🖥️ LG 24MK600M-B   </p>
 <h4 id="the-stats-things">The stats things</h4>
 <p><img src="https://github-readme-stats.vercel.app/api?username=alicescfernandes&amp;show_icons=true&amp;locale=en" alt=""><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicescfernandes&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt=""></p>
 <img src="https://www.google-analytics.com/collect?v=1&amp;t=event&amp;tid=UA-100869248-2&amp;cid=555&amp;ec=github&amp;ea=pageview&amp;el=profile&amp;ev=1" alt=""> 
