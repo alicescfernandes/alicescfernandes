@@ -7,7 +7,7 @@ You should probably know that i love 🍄, to the point that i eat them as lunch
 
 ### My dev gear
 
-💻 Ubuntu running on 16GiB RAM, 1TB of space & i7-10510U CPU
+💻 Ubuntu running on 16GiB RAM, 1TB of space & i7-10510U CPU  
 💻 Macbook Pro M1 2021
 🖱️ Logitech MX Master 3  
 ⌨️ Logitech M375 & Ducky One 2 SF with Cherry MX Silent Red  
