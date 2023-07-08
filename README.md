@@ -1,12 +1,20 @@
-<h3 id="hi-there-i-m-alice">Hi there 👋 I&#39;m Alice</h3>
-<p>
-And i&#39;m currently taking a course in Engineering @ ISEL, and working full-time as Frontend Developer at <a href="#">Sky</a>.<br>
-As of now, i&#39;m working with React, Docker, Typescript, Svelte, Ruby, ES6+ compliant JS, Python, and experimenting writing apps for Fitbit and other random devices.<br/> 
-In the future i would like to transition to an software role related with audio, but i have to be good at low level languages (such as C++ or Obj-C).</p>
-<p>You should probably know that i love 🍄, to the point that i eat them as lunch snacks and i mostly rely on coffee everyday. One of my favourite hobbies is listening to 📡 (yep, i&#39;m trying to catch UFO&#39;s) but so far only got to see airplanes and hearing radio. <a href="https://www.google.com/search?q=full+disk+image+earth&amp;safe=active&amp;tbm=isch">One day i will be able to have a full-disk image of the planet Earth!</a></p>
-<p>You can only find me at <a href="https://linkedin.com/in/alicescfernandes" target="blank">LinkedIn</a></p>
-<h3 id="my-dev-gear">My dev gear</h3>
-<p>💻 Ubuntu  running on 16GiB RAM, 1TB of space &amp; i7-10510U CPU or MacOs<br>🖱️ Logitech MX Master 3<br>⌨️ Logitech M375 & Ducky One 2 SF with Cherry MX Silent Red<br>🖥️ LG Ergo Stand 27QN880-B (27'', 2K Resolution)   </p>
-<h4 id="the-stats-things">The stats things</h4>
-<p><img src="https://github-readme-stats.vercel.app/api?username=alicescfernandes&amp;show_icons=true&amp;locale=en" alt=""><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicescfernandes&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt=""></p>
-<img src="https://www.google-analytics.com/collect?v=1&amp;t=event&amp;tid=UA-100869248-2&amp;cid=555&amp;ec=github&amp;ea=pageview&amp;el=profile&amp;ev=1" alt=""> 
+### Hi there 👋 I'm Alice
+
+And i'm currently taking a course in Engineering @ ISEL, and working full-time as Frontend Developer at [Sky](#).  
+As of now, i'm working with React, Docker, Typescript, Svelte, JS, Python, and experimenting with Jenkins and other stuff.
+
+You should probably know that i love 🍄, to the point that i eat them as lunch snacks and i mostly rely on coffee everyday. I also have 3 cat that i like to show to everybody and can 🥁 a little bit.
+
+### My dev gear
+
+💻 Ubuntu running on 16GiB RAM, 1TB of space & i7-10510U CPU
+💻 Macbook Pro M1 2021
+🖱️ Logitech MX Master 3  
+⌨️ Logitech M375 & Ducky One 2 SF with Cherry MX Silent Red  
+🖥️ LG Ergo Stand 27QN880-B (27'', 2K Resolution)
+
+#### The stats things
+
+![](https://github-readme-stats.vercel.app/api?username=alicescfernandes&show_icons=true&locale=en)![](https://github-readme-stats.vercel.app/api/top-langs?username=alicescfernandes&show_icons=true&locale=en&layout=compact)
+
+![](https://www.google-analytics.com/collect?v=1&t=event&tid=UA-100869248-2&cid=555&ec=github&ea=pageview&el=profile&ev=1)
