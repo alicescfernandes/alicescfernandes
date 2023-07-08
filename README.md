@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Alice
 
 And i'm currently taking a course in Engineering @ ISEL, and working full-time as Frontend Developer at [Sky](#).  
-As of now, i'm working with React, Docker, Typescript, Svelte, JS, Python, and experimenting with Jenkins and other stuff.
+As of now, i'm working with React, Docker, Typescript, Svelte, JS, Python, and experimenting with Arduinos and RaspberryPi's
 
-You should probably know that i love 🍄, to the point that i eat them as lunch snacks and i mostly rely on coffee everyday. I also have 3 cat that i like to show to everybody and can 🥁 a little bit.
+You should probably know that i love 🍄, to the point that i eat them as lunch snacks and i mostly rely on coffee everyday. I also have 3 cats that i like to show to everybody and can 🥁 a little bit.
 
 ### My dev gear
 
