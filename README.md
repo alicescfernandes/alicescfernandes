@@ -13,7 +13,4 @@ You should probably know that i love 🍄, to the point that i eat them as lunch
 🖥️ LG Ergo Stand 27QN880-B (27'', 2K Resolution)
 
 #### The stats things
-
 ![](https://github-readme-stats.vercel.app/api?username=alicescfernandes&show_icons=true&locale=en)![](https://github-readme-stats.vercel.app/api/top-langs?username=alicescfernandes&show_icons=true&locale=en&layout=compact)
-
-![](https://www.google-analytics.com/collect?v=1&t=event&tid=UA-100869248-2&cid=555&ec=github&ea=pageview&el=profile&ev=1)
