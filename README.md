@@ -7,8 +7,7 @@ You should probably know that i love 🍄, to the point that i eat them as lunch
 
 ### My dev gear
 
-💻 Windows 11 on 16GiB RAM, 1TB of space & 8945HS CPU  
-💻 Macbook Pro M1 2021  
+💻 Windows 11 on 16GiB RAM, 1TB of space & AMD Ryzen 9 8945H  
 🖱️ Logitech MX Master 3  
 ⌨️ Logitech M375 & Ducky One 2 SF with Cherry MX Silent Red  
 🖥️ LG Ergo Stand 27QN880-B (27'', 2K Resolution)
