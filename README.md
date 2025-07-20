@@ -9,7 +9,7 @@ You should probably know that i love 🍄, to the point that i eat them as lunch
 
 💻 Windows 11 on 16GiB RAM, 1TB of space & AMD Ryzen 9 8945H  
 🖱️ Logitech MX Master 3  
-⌨️ Epomaker EK68
+⌨️ Epomaker EK68  
 🖥️ LG Ergo Stand 27QN880-B (27'', 2K Resolution)
 
 #### The stats things
