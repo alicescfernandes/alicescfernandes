@@ -9,6 +9,7 @@
 ### My dev gear
 
 💻 Windows 11 on 16GiB RAM, 1TB of space & AMD Ryzen 9 8945H  
+💻 CachyOS (KDE Plasma) on 16GiB RAM, 1TB of space & AMD Ryzen AI 7 350  
 🖱️ Logitech MX Master 3  
 ⌨️ Epomaker EK68  
 🖥️ LG Ergo Stand 27QN880-B (27'', 2K Resolution)
